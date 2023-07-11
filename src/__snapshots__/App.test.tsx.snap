@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <div
+      class="MuiContainer-root MuiContainer-maxWidthLg css-1oqqzyl-MuiContainer-root"
+    >
+      <div
+        class="MuiGrid2-root MuiGrid2-direction-xs-row css-8x7r3w-MuiGrid2-root"
+      >
+        <div
+          data-testid="report"
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
